@@ -1,4 +1,4 @@
-# Crypto-Wallets
+# Level 4 - Crypto-Wallets
 
 In this module you will learn about what are Crypto Wallets and how to download one. <br>
 
