@@ -33,7 +33,7 @@ In this module you will learn about what are Crypto Wallets and how to download 
 
 ### What is a crypto wallet?
 
-- Crypto wallets manage the private keys for your addresses
+- Crypto wallets manage the private keys for your addresses.
 - They also allow you to send, receive crypto and interact with many blockchain apps.
 - You can consider your crypto wallet as a password manager then seed phrase is the master password for your password manager and your multiple addresses and private keys are your username and passwords.
 
@@ -41,7 +41,7 @@ In this module you will learn about what are Crypto Wallets and how to download 
 
 ### What is MetaMask?
 
-- An hot Ethereum crypto wallet which you can install as a browser extension or a mobile app. It helps you interact with Ethereum Apps.
+- A hot Ethereum crypto wallet which you can install as a browser extension or a mobile app. It helps you interact with Ethereum Apps.
 - [Download MetaMask](https://metamask.io/download.html)
 - [What is MetaMask - Begineer's Guide](https://medium.com/@decryptmedia/metamask-the-beginners-guide-6111143f2581)
 - [How to use MetaMask](https://www.youtube.com/watch?v=yWfZnjkhhhg)
