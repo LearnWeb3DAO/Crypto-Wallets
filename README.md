@@ -42,6 +42,10 @@ In this module you will learn about what are Crypto Wallets and how to download 
 ### What is MetaMask?
 
 - An hot Ethereum crypto wallet which you can install as a browser extension or a mobile app. It helps you interact with Ethereum Apps.
-- [Download MetaMask](https://metamask.io/download.html)
-- [What is MetaMask - Begineer's Guide](https://medium.com/@decryptmedia/metamask-the-beginners-guide-6111143f2581)
-- [How to use MetaMask](https://www.youtube.com/watch?v=yWfZnjkhhhg)
+  - [What is MetaMask - Begineer's Guide](https://medium.com/@decryptmedia/metamask-the-beginners-guide-6111143f2581)
+  - [Download MetaMask](https://metamask.io/download.html) (Highly Recommended!)
+  - [How to use MetaMask](https://www.youtube.com/watch?v=yWfZnjkhhhg)
+- Other Alternatives 
+  - For other wallets you may have to use [WalletConnect](https://walletconnect.com/)
+  - [Coinbase](https://www.coinbase.com/)
+  - [Trust Wallet](https://trustwallet.com/)
