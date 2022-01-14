@@ -46,5 +46,7 @@ In this module you will learn about what are Crypto Wallets and how to download 
   - [Download MetaMask](https://metamask.io/download.html) (Highly Recommended!)
   - [How to use MetaMask](https://www.youtube.com/watch?v=yWfZnjkhhhg)
 - Other Alternatives 
-  - For other wallets you may have to use [WalletConnect](https://walletconnect.com/)
-  - Here is the list of all [wallets supported by WalletConnect](https://walletconnect.com/registry/wallets)
+  - [Coinbase](https://www.coinbase.com/)
+  - [Trust Wallet](https://trustwallet.com/)
+  - [Atomic Wallet](https://atomicwallet.io/)
+  P.S. - To connect other wallets in LearnWeb3DAO you have to use [Wallet Connect](https://walletconnect.com/).Here is the list of all [wallets supported by WalletConnect](https://walletconnect.com/registry/wallets)
