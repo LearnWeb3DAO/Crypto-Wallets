@@ -47,5 +47,4 @@ In this module you will learn about what are Crypto Wallets and how to download 
   - [How to use MetaMask](https://www.youtube.com/watch?v=yWfZnjkhhhg)
 - Other Alternatives 
   - For other wallets you may have to use [WalletConnect](https://walletconnect.com/)
-  - [Coinbase](https://www.coinbase.com/)
-  - [Trust Wallet](https://trustwallet.com/)
+  - Here is the list of all [wallets supported by WalletConnect](https://walletconnect.com/registry/wallets)
