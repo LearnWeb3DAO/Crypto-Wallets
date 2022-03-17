@@ -8,7 +8,7 @@ In this module you will learn about what are Crypto Wallets and how to download 
 
 - An address is a string of text generated using cryptography to represent your account on the blockchain.
 - You can send and receive funds and can also interact with other applications using your address.
-- An example an Ethereum address is: `0x01573Df433484fCBe6325a0c6E051Dc62Ab107D1`
+- An example of an Ethereum address is: `0x01573Df433484fCBe6325a0c6E051Dc62Ab107D1`
 
 ---
 
