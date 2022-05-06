@@ -51,4 +51,4 @@ In this module you will learn about what are Crypto Wallets and how to download 
   - [Trust Wallet](https://trustwallet.com/)
   - [Atomic Wallet](https://atomicwallet.io/)
     
-   P.S. - To connect other wallets in LearnWeb3DAO you have to use [Wallet Connect](https://walletconnect.com/).Here is the list of all [wallets supported by WalletConnect](https://walletconnect.com/registry/wallets).
+   P.S. - To connect other wallets in LearnWeb3DAO you have to use [Wallet Connect](https://walletconnect.com/).Here is the list of all [wallets supported by WalletConnect](https://walletconnect.com/registry?type=wallet).
