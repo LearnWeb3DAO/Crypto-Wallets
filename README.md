@@ -2,16 +2,12 @@
 
 In this module you will learn about what are Crypto Wallets and how to download one. 🤔
 
----
-
 ## Introduction
 To understand crypto wallets fully, we have to understand some concepts about the blockchain, which will help us in understanding how a wallet aids us. Let's start off.
 
 ## What is an address? 🤨
 
 An address is a string of text generated using cryptography to represent your account on the blockchain. This address can be shared publicly with others, and is completely safe to do so. You can send and receive funds from and to your wallet address. Basically, the address is your unique identifier on the blockchain and represents your 'account'. An example of an Ethereum address is: `0x01573Df433484fCBe6325a0c6E051Dc62Ab107D1`.
-
----
 
 ## What are private keys? 🔐
 
@@ -27,8 +23,6 @@ If you think of your address as a username for your account, the private key is 
 
 For developers, we often use the private key as part of our codebase to perform certain transactions, such as deploying our own smart contracts to the Ethereum network. While you are still learning, we highly suggest you use a separate account entirely for development than you use for storing any sort of funds. Unfortunately, beginner developers often use the same account they have funds on, and accidentally share their codebase publicly - and hackers can see your private key in the codebase and end up stealing funds. Please take that as a tale of caution.
 
----
-
 ## What is a seed phrase? 👮‍♀️
 
 A seed phrase is like a master password - the password of passwords!
@@ -43,16 +37,11 @@ So for example if you created a wallet, and then created 5 accounts within it, y
 
 An example of a seed phrase is: `dove lumber quote board young robust kit invite plastic regular skull history`
 
----
-
 ## What is a crypto wallet then? 😛
 
 Crypto wallets are a manager for your accounts, and mainly their private keys. They also allow you to interact with decentralized applications, and allow connecting to a dApp through the wallet, acting as a single sign-on for all applications built on the blockchain. 
 
 At LearnWeb3 as well, you can go into the Dashboard and connect your crypto wallet (after you have set it up), which will let us know what your address is so we can send you some sick NFTs when you graduate from our tracks!
-
-
----
 
 ## Setting up a Wallet 🎉
 
