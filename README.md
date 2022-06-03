@@ -29,7 +29,7 @@ For developers, we often use the private key as part of our codebase to perform 
 
 ---
 
-### What is a seed phrase? 👮‍♀️
+## What is a seed phrase? 👮‍♀️
 
 A seed phrase is like a master password - the password of passwords!
 
